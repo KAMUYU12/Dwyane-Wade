@@ -1,0 +1,24 @@
+Body{background-color: indigo;
+    text-align: center;
+color: antiquewhite;
+
+}
+Img{border-color: antiquewhite;
+    border-width:5px ;
+border-style: double;
+border-radius:125px ;
+
+}
+P{font-size: 21px;
+font-family: lobster;
+}
+A{color:greenyellow;
+font-size: 33px;
+}
+#max{color: goldenrod;
+
+}
+.mac:hover{color: darkred;background-color: gold;font-family: serif font font-size:25px;
+
+}
+
